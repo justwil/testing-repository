@@ -1,3 +1,3 @@
 # testing-repository
 
-Testowy tekst do ćwiczenia commitów
+Testowy tekst do ćwiczenia commitów.
